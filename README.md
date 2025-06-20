@@ -58,3 +58,6 @@ GEMINI_API_KEY=YOUR_API_KEY_HERE
    ```
 9. Akses dari Browser
    Buka http://localhost:8000 di browser.
+
+## 📮 Tampilan Chatbot
+![Tampilan Chatbot](assets/chatbot-preview.png)
